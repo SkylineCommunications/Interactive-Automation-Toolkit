@@ -3,6 +3,9 @@
 name: NuGet Release
 
 on:
+  create:
+    tags:
+      - '*'
   push:
     # Pattern matched against refs/tags
     tags:        
