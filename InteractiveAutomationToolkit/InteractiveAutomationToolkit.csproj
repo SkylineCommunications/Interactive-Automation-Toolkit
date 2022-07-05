@@ -36,7 +36,6 @@
 		<WarningLevel>4</WarningLevel>
 		<DocumentationFile>bin\Release\Skyline.DataMiner.InteractiveAutomationToolkit.xml</DocumentationFile>
 		<CodeAnalysisRuleSet>..\Internal\Code Analysis\qaction-release.ruleset</CodeAnalysisRuleSet>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	</PropertyGroup>
 	<ItemGroup>
 		<Reference Include="Skyline.DataMiner.Storage.Types, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9789b1eac4cb1b12, processorArchitecture=MSIL">
